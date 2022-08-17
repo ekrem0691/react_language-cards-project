@@ -1,7 +1,6 @@
 import { languages } from "../../helpers/data";
 import Item from "../item/Item";
-
-import React from "react";
+import "./card.css"
 
 // console.log(languages)
 
